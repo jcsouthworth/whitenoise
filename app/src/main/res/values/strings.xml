@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">White Noise</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="volume">Volume</string>
+    <string name="status_playing">Playing…</string>
+    <string name="status_stopped">Tap to start</string>
+    <string name="notification_text">is playing</string>
+    <string name="notification_permission_denied">Notification permission denied — audio will still play</string>
+    <string name="noise_white">White</string>
+    <string name="noise_pink">Pink</string>
+    <string name="noise_brown">Brown</string>
+    <string name="noise_ocean">Ocean</string>
+    <string name="noise_rain">Rain</string>
+<string name="noise_fan">Fan</string>
+    <string name="noise_fire">Fire</string>
+</resources>

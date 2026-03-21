@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple sound wave lines -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M44,54 Q44,38 54,38 Q64,38 64,54 Q64,70 54,70 Q44,70 44,54 Z" />
+    <path
+        android:strokeColor="#4FC3F7"
+        android:strokeWidth="3"
+        android:pathData="M36,42 Q28,54 36,66"
+        android:fillColor="@android:color/transparent" />
+    <path
+        android:strokeColor="#4FC3F7"
+        android:strokeWidth="3"
+        android:pathData="M72,42 Q80,54 72,66"
+        android:fillColor="@android:color/transparent" />
+</vector>

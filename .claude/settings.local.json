@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//opt/android-studio/**)",
+      "Read(//home/jake/android-studio/**)",
+      "Bash(flatpak list)",
+      "Bash(gradle:*)",
+      "Bash(java:*)",
+      "Bash(sudo apt-get:*)",
+      "Bash(ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug:*)",
+      "Bash(./gradlew assembleDebug:*)"
+    ]
+  }
+}
